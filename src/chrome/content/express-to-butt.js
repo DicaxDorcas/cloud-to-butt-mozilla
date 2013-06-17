@@ -40,7 +40,8 @@
         v = v.replace(/\bExpress.js\b/g, "my butt");
         v = v.replace(/\bexpress.JS\b/g, "my butt");
         v = v.replace(/\bExpress.JS\b/g, "my butt");
-    
+        v = v.replace(/\bexpress\b/g, "butt");
+        v = v.replace(/\bExpress\b/g, "Butt"); 
         textNode.nodeValue = v;
     }
 

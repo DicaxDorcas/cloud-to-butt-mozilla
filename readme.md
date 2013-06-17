@@ -1,6 +1,6 @@
-# cloud-to-butt-mozilla
+# express-to-butt-mozilla
 
-Derived from the work of DaveRandom's [cloud-to-butt-mozilla](https://github.com/DaveRandom/cloud-to-butt-mozilla), and Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension.
+To fight my frustration that everyone on Stack[insert keyword here] recommends express instead of actually providing a solution. Derived from the work of DaveRandom's [cloud-to-butt-mozilla](https://github.com/DaveRandom/cloud-to-butt-mozilla), and Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension.
 
 
 ## Installing
