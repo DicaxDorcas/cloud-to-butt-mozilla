@@ -1,11 +1,11 @@
 # cloud-to-butt-mozilla
 
-Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension.
+Derived from the work of DaveRandom's [cloud-to-butt-mozilla](https://github.com/DaveRandom/cloud-to-butt-mozilla), and Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension.
 
 
 ## Installing
 
-Download [CloudToButt.xpi](https://github.com/DaveRandom/cloud-to-butt-mozilla/blob/master/CloudToButt.xpi?raw=true)
+Download [ExpressToButt.xpi](https://github.com/DicaxDorcas/express-to-butt-mozilla/blob/master/ExpressToButt.xpi?raw=true)
 
 
 ## Building

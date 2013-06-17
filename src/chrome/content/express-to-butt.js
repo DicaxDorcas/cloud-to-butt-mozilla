@@ -31,10 +31,15 @@
     {
         var v = textNode.nodeValue;
     
-        v = v.replace(/\bThe Cloud\b/g, "My Butt");
-        v = v.replace(/\bThe cloud\b/g, "My butt");
-        v = v.replace(/\bthe Cloud\b/g, "my Butt");
-        v = v.replace(/\bthe cloud\b/g, "my butt");
+        v = v.replace(/\bExpress Framework\b/g, "My Butt");
+        v = v.replace(/\bExpress framework\b/g, "My butt");
+        v = v.replace(/\bexpress Framework\b/g, "my Butt");
+        v = v.replace(/\bexpress framework\b/g, "my butt");
+        v = v.replace(/\bexpressjs\b/g, "my butt");
+        v = v.replace(/\bexpress.js\b/g, "my butt");
+        v = v.replace(/\bExpress.js\b/g, "my butt");
+        v = v.replace(/\bexpress.JS\b/g, "my butt");
+        v = v.replace(/\bExpress.JS\b/g, "my butt");
     
         textNode.nodeValue = v;
     }
